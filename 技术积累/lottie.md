@@ -1,8 +1,3 @@
-
-
-
-
-
 ## lottie
 
 ### lottie是什么
